@@ -6,19 +6,19 @@
     <a href="javascript:toggleThirdStation()">
       <img class="earth" src="images/earth_top.svg" />
     </a>
-    <div class="regiongroup station1 red" ng-show="showStation1">
+    <div class="regiongroup station1 red" ng-show="showStation['1']">
       <div class="region left">
       </div>
       <div class="region right">
       </div>
     </div>
-    <div class="regiongroup station2 red" ng-show="showStation2">
+    <div class="regiongroup station2 red" ng-show="showStation['2']">
       <div class="region left">
       </div>
       <div class="region right">
       </div>
     </div>
-    <div class="regiongroup station3 green" ng-show="showStation3">
+    <div class="regiongroup station3 green" ng-show="showStation['3']">
       <div class="region left">
       </div>
       <div class="region right">
@@ -29,9 +29,9 @@
 
 <form id="mixer" action="">
   <div class="form-group">
-    <button ng-click="showStation1 = !showStation1"> show station 1</button>
-    <button ng-click="showStation2 = !showStation2"> show station 2</button>
-    <button ng-click="showStation3 = !showStation3"> show station 3</button>
+    <button ng-click="toggleStation(1)"> show station 1</button>
+    <button ng-click="toggleStation(2)"> show station 2</button>
+    <button ng-click="toggleStation(3)"> show station 3</button>
   </div>
   <div class="form-group">
     {{earthDiameter}}
