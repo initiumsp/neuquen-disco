@@ -40,12 +40,35 @@ angular.module('neuqueninitiumdatacomApp')
       }
     });
 
-    var beat = 1;
-    for (var i=0; i<10; i++) {
+    $scope.earthDiameter = 500;
+
+    var songLength = 4 * 60 + 45; // 4:45
+    var beatDuration = 60 / 127 * 1000; // beat duration at 127 BPM
+    var beatNumber = songLength * 1000 / beatDuration;
+    for (var i=0; i<beatNumber; i++) {
+      $timeout(function(){
+        $scope.showStation3 = !$scope.showStation3;
+      }, beatDuration * i);
+    }
+
+    var toggleStation1 = function(){
+      $scope.showStation1 = !$scope.showStation1;
       $timeout(function(){
         $scope.showStation1 = !$scope.showStation1;
-      }, beat * i * 1000);
+      }, beatDuration * 2);
+    };
+
+    var strategyArray = [
+      {
+        time: beatDuration * 5,
+        action: toggleStation1,
+      }
+    ];
+
+    for (var i=0; i<strategyArray.length; i++) {
+      $timeout(strategyArray[i].action, strategyArray[i].time);
     }
+
   });
 
 //angular.directive('myEnter', function () {
