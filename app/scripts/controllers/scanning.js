@@ -8,7 +8,7 @@
  * Controller of the neuqueninitiumdatacomApp
  */
 angular.module('neuqueninitiumdatacomApp')
-  .controller('ScanningCtrl', function ($scope, $timeout) {
+  .controller('ScanningCtrl', function ($scope, $timeout, $http) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
@@ -51,6 +51,7 @@ angular.module('neuqueninitiumdatacomApp')
     };
 
     $scope.earthDiameter = 500;
+    $scope.moonDiameter = 500;
 
     var songLength = 4 * 60 + 45; // 4:45
     var beatDuration = 60 / 127 * 1000; // beat duration at 127 BPM
@@ -77,7 +78,31 @@ angular.module('neuqueninitiumdatacomApp')
 
     for (var i=0; i<strategyArray.length; i++) {
       $timeout(strategyArray[i].action, strategyArray[i].time);
-    }
+    };
+
+    $http.get('/rms_volume.json').then(function(response){
+      //console.log(response);
+      for (var i=0; i<response.data.length; i++) {
+        var a = function(){
+            var interval = 1.0 * response.data[i].interval;
+            var rms = 1.0 * response.data[i].rms;
+            console.log(interval);
+            console.log(rms);
+            console.log(response.data.length);
+            $timeout(function(){
+              //console.log('here');
+              //$scope.earthDiameter = 1000 * response.data[i].rms;
+              $scope.moonDiameter = 10 * rms;
+              //console.log(rms);
+            }, interval * beatDuration);
+            //$timeout(strategyArray[i].action, strategyArray[i].time);
+        };
+        a();
+      }
+    }, function(){
+      //fail
+    });
+
 
   });
 
