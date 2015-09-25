@@ -1,1138 +1,2414 @@
 [
     {
-        "sec": "0",
-        "value": "0.000793"
+        "interval": "0",
+        "Maximum_delta": "0.000092"
     },
     {
-        "sec": "1",
-        "value": "0.021576"
+        "interval": "1",
+        "Maximum_delta": "0.000732"
     },
     {
-        "sec": "2",
-        "value": "0.167999"
+        "interval": "2",
+        "Maximum_delta": "0.007813"
     },
     {
-        "sec": "3",
-        "value": "0.361053"
+        "interval": "3",
+        "Maximum_delta": "0.021576"
     },
     {
-        "sec": "4",
-        "value": "0.270355"
+        "interval": "4",
+        "Maximum_delta": "0.016663"
     },
     {
-        "sec": "5",
-        "value": "0.399353"
+        "interval": "5",
+        "Maximum_delta": "0.167999"
     },
     {
-        "sec": "6",
-        "value": "0.484894"
+        "interval": "6",
+        "Maximum_delta": "0.158386"
     },
     {
-        "sec": "7",
-        "value": "0.824707"
+        "interval": "7",
+        "Maximum_delta": "0.361053"
     },
     {
-        "sec": "8",
-        "value": "1.093170"
+        "interval": "8",
+        "Maximum_delta": "0.285767"
     },
     {
-        "sec": "9",
-        "value": "0.771667"
+        "interval": "9",
+        "Maximum_delta": "0.270355"
     },
     {
-        "sec": "10",
-        "value": "0.772186"
+        "interval": "10",
+        "Maximum_delta": "0.275238"
     },
     {
-        "sec": "11",
-        "value": "0.794830"
+        "interval": "11",
+        "Maximum_delta": "0.330841"
     },
     {
-        "sec": "12",
-        "value": "0.743225"
+        "interval": "12",
+        "Maximum_delta": "0.399353"
     },
     {
-        "sec": "13",
-        "value": "0.863312"
+        "interval": "13",
+        "Maximum_delta": "0.360840"
     },
     {
-        "sec": "14",
-        "value": "0.747894"
+        "interval": "14",
+        "Maximum_delta": "0.484894"
     },
     {
-        "sec": "15",
-        "value": "0.921936"
+        "interval": "15",
+        "Maximum_delta": "0.824707"
     },
     {
-        "sec": "16",
-        "value": "0.798096"
+        "interval": "16",
+        "Maximum_delta": "0.761047"
     },
     {
-        "sec": "17",
-        "value": "0.975342"
+        "interval": "17",
+        "Maximum_delta": "1.093170"
     },
     {
-        "sec": "18",
-        "value": "0.892578"
+        "interval": "18",
+        "Maximum_delta": "0.874420"
     },
     {
-        "sec": "19",
-        "value": "0.814789"
+        "interval": "19",
+        "Maximum_delta": "0.747223"
     },
     {
-        "sec": "20",
-        "value": "0.774933"
+        "interval": "20",
+        "Maximum_delta": "0.771667"
     },
     {
-        "sec": "21",
-        "value": "0.962402"
+        "interval": "21",
+        "Maximum_delta": "0.623657"
     },
     {
-        "sec": "22",
-        "value": "0.696686"
+        "interval": "22",
+        "Maximum_delta": "0.772186"
     },
     {
-        "sec": "23",
-        "value": "0.742798"
+        "interval": "23",
+        "Maximum_delta": "0.674438"
     },
     {
-        "sec": "24",
-        "value": "0.587830"
+        "interval": "24",
+        "Maximum_delta": "0.794830"
     },
     {
-        "sec": "25",
-        "value": "0.610657"
+        "interval": "25",
+        "Maximum_delta": "0.675659"
     },
     {
-        "sec": "26",
-        "value": "0.570404"
+        "interval": "26",
+        "Maximum_delta": "0.743225"
     },
     {
-        "sec": "27",
-        "value": "0.661591"
+        "interval": "27",
+        "Maximum_delta": "0.794464"
     },
     {
-        "sec": "28",
-        "value": "0.578918"
+        "interval": "28",
+        "Maximum_delta": "0.863312"
     },
     {
-        "sec": "29",
-        "value": "0.602722"
+        "interval": "29",
+        "Maximum_delta": "0.747894"
     },
     {
-        "sec": "30",
-        "value": "0.729553"
+        "interval": "30",
+        "Maximum_delta": "0.704224"
     },
     {
-        "sec": "31",
-        "value": "0.708893"
+        "interval": "31",
+        "Maximum_delta": "0.772797"
     },
     {
-        "sec": "32",
-        "value": "0.796021"
+        "interval": "32",
+        "Maximum_delta": "0.921936"
     },
     {
-        "sec": "33",
-        "value": "0.547119"
+        "interval": "33",
+        "Maximum_delta": "0.915924"
     },
     {
-        "sec": "34",
-        "value": "0.700470"
+        "interval": "34",
+        "Maximum_delta": "0.798096"
     },
     {
-        "sec": "35",
-        "value": "0.618073"
+        "interval": "35",
+        "Maximum_delta": "0.737701"
     },
     {
-        "sec": "36",
-        "value": "0.650757"
+        "interval": "36",
+        "Maximum_delta": "0.975342"
     },
     {
-        "sec": "37",
-        "value": "0.631531"
+        "interval": "37",
+        "Maximum_delta": "0.649750"
     },
     {
-        "sec": "38",
-        "value": "0.629456"
+        "interval": "38",
+        "Maximum_delta": "0.892578"
     },
     {
-        "sec": "39",
-        "value": "0.737518"
+        "interval": "39",
+        "Maximum_delta": "0.790985"
     },
     {
-        "sec": "40",
-        "value": "0.907471"
+        "interval": "40",
+        "Maximum_delta": "0.795776"
     },
     {
-        "sec": "41",
-        "value": "0.724762"
+        "interval": "41",
+        "Maximum_delta": "0.777191"
     },
     {
-        "sec": "42",
-        "value": "0.679260"
+        "interval": "42",
+        "Maximum_delta": "0.814789"
     },
     {
-        "sec": "43",
-        "value": "0.762848"
+        "interval": "43",
+        "Maximum_delta": "0.774933"
     },
     {
-        "sec": "44",
-        "value": "0.693970"
+        "interval": "44",
+        "Maximum_delta": "0.795776"
     },
     {
-        "sec": "45",
-        "value": "0.873840"
+        "interval": "45",
+        "Maximum_delta": "0.681335"
     },
     {
-        "sec": "46",
-        "value": "0.852417"
+        "interval": "46",
+        "Maximum_delta": "0.962402"
     },
     {
-        "sec": "47",
-        "value": "0.739471"
+        "interval": "47",
+        "Maximum_delta": "0.696686"
     },
     {
-        "sec": "48",
-        "value": "0.868958"
+        "interval": "48",
+        "Maximum_delta": "0.675995"
     },
     {
-        "sec": "49",
-        "value": "0.802429"
+        "interval": "49",
+        "Maximum_delta": "0.742798"
     },
     {
-        "sec": "50",
-        "value": "0.889496"
+        "interval": "50",
+        "Maximum_delta": "0.539551"
     },
     {
-        "sec": "51",
-        "value": "0.820313"
+        "interval": "51",
+        "Maximum_delta": "0.406952"
     },
     {
-        "sec": "52",
-        "value": "0.911530"
+        "interval": "52",
+        "Maximum_delta": "0.587830"
     },
     {
-        "sec": "53",
-        "value": "0.713593"
+        "interval": "53",
+        "Maximum_delta": "0.346344"
     },
     {
-        "sec": "54",
-        "value": "1.032379"
+        "interval": "54",
+        "Maximum_delta": "0.610657"
     },
     {
-        "sec": "55",
-        "value": "1.027527"
+        "interval": "55",
+        "Maximum_delta": "0.395630"
     },
     {
-        "sec": "56",
-        "value": "0.691345"
+        "interval": "56",
+        "Maximum_delta": "0.570404"
     },
     {
-        "sec": "57",
-        "value": "0.759399"
+        "interval": "57",
+        "Maximum_delta": "0.341553"
     },
     {
-        "sec": "58",
-        "value": "0.837311"
+        "interval": "58",
+        "Maximum_delta": "0.661591"
     },
     {
-        "sec": "59",
-        "value": "1.052399"
+        "interval": "59",
+        "Maximum_delta": "0.578094"
     },
     {
-        "sec": "60",
-        "value": "0.998474"
+        "interval": "60",
+        "Maximum_delta": "0.578918"
     },
     {
-        "sec": "61",
-        "value": "0.970398"
+        "interval": "61",
+        "Maximum_delta": "0.377106"
     },
     {
-        "sec": "62",
-        "value": "0.837128"
+        "interval": "62",
+        "Maximum_delta": "0.602722"
     },
     {
-        "sec": "63",
-        "value": "1.297516"
+        "interval": "63",
+        "Maximum_delta": "0.400696"
     },
     {
-        "sec": "64",
-        "value": "1.596100"
+        "interval": "64",
+        "Maximum_delta": "0.703033"
     },
     {
-        "sec": "65",
-        "value": "0.995758"
+        "interval": "65",
+        "Maximum_delta": "0.729553"
     },
     {
-        "sec": "66",
-        "value": "0.892822"
+        "interval": "66",
+        "Maximum_delta": "0.704010"
     },
     {
-        "sec": "67",
-        "value": "0.947266"
+        "interval": "67",
+        "Maximum_delta": "0.708893"
     },
     {
-        "sec": "68",
-        "value": "0.785309"
+        "interval": "68",
+        "Maximum_delta": "0.796021"
     },
     {
-        "sec": "69",
-        "value": "1.062927"
+        "interval": "69",
+        "Maximum_delta": "0.363831"
     },
     {
-        "sec": "70",
-        "value": "0.800690"
+        "interval": "70",
+        "Maximum_delta": "0.547119"
     },
     {
-        "sec": "71",
-        "value": "1.362366"
+        "interval": "71",
+        "Maximum_delta": "0.340179"
     },
     {
-        "sec": "72",
-        "value": "0.879944"
+        "interval": "72",
+        "Maximum_delta": "0.700470"
     },
     {
-        "sec": "73",
-        "value": "0.875000"
+        "interval": "73",
+        "Maximum_delta": "0.570465"
     },
     {
-        "sec": "74",
-        "value": "0.956329"
+        "interval": "74",
+        "Maximum_delta": "0.618073"
     },
     {
-        "sec": "75",
-        "value": "1.132324"
+        "interval": "75",
+        "Maximum_delta": "0.480743"
     },
     {
-        "sec": "76",
-        "value": "1.067993"
+        "interval": "76",
+        "Maximum_delta": "0.650757"
     },
     {
-        "sec": "77",
-        "value": "0.878876"
+        "interval": "77",
+        "Maximum_delta": "0.634338"
     },
     {
-        "sec": "78",
-        "value": "1.072449"
+        "interval": "78",
+        "Maximum_delta": "0.647766"
     },
     {
-        "sec": "79",
-        "value": "1.560425"
+        "interval": "79",
+        "Maximum_delta": "0.414246"
     },
     {
-        "sec": "80",
-        "value": "0.833038"
+        "interval": "80",
+        "Maximum_delta": "0.631531"
     },
     {
-        "sec": "81",
-        "value": "0.902496"
+        "interval": "81",
+        "Maximum_delta": "0.468414"
     },
     {
-        "sec": "82",
-        "value": "0.977325"
+        "interval": "82",
+        "Maximum_delta": "0.629456"
     },
     {
-        "sec": "83",
-        "value": "0.840179"
+        "interval": "83",
+        "Maximum_delta": "0.549530"
     },
     {
-        "sec": "84",
-        "value": "1.034851"
+        "interval": "84",
+        "Maximum_delta": "0.737518"
     },
     {
-        "sec": "85",
-        "value": "1.213257"
+        "interval": "85",
+        "Maximum_delta": "0.387268"
     },
     {
-        "sec": "86",
-        "value": "1.382446"
+        "interval": "86",
+        "Maximum_delta": "0.907471"
     },
     {
-        "sec": "87",
-        "value": "1.539337"
+        "interval": "87",
+        "Maximum_delta": "0.408691"
     },
     {
-        "sec": "88",
-        "value": "1.400574"
+        "interval": "88",
+        "Maximum_delta": "0.724762"
     },
     {
-        "sec": "89",
-        "value": "1.348022"
+        "interval": "89",
+        "Maximum_delta": "0.537781"
     },
     {
-        "sec": "90",
-        "value": "1.168945"
+        "interval": "90",
+        "Maximum_delta": "0.679260"
     },
     {
-        "sec": "91",
-        "value": "0.862762"
+        "interval": "91",
+        "Maximum_delta": "0.706970"
     },
     {
-        "sec": "92",
-        "value": "0.815491"
+        "interval": "92",
+        "Maximum_delta": "0.762848"
     },
     {
-        "sec": "93",
-        "value": "0.760071"
+        "interval": "93",
+        "Maximum_delta": "0.447784"
     },
     {
-        "sec": "94",
-        "value": "0.757599"
+        "interval": "94",
+        "Maximum_delta": "0.693970"
     },
     {
-        "sec": "95",
-        "value": "0.935669"
+        "interval": "95",
+        "Maximum_delta": "0.646118"
     },
     {
-        "sec": "96",
-        "value": "0.837860"
+        "interval": "96",
+        "Maximum_delta": "0.873840"
     },
     {
-        "sec": "97",
-        "value": "0.897034"
+        "interval": "97",
+        "Maximum_delta": "0.752747"
     },
     {
-        "sec": "98",
-        "value": "1.100525"
+        "interval": "98",
+        "Maximum_delta": "0.852417"
     },
     {
-        "sec": "99",
-        "value": "0.995148"
+        "interval": "99",
+        "Maximum_delta": "0.560089"
     },
     {
-        "sec": "100",
-        "value": "0.954041"
+        "interval": "100",
+        "Maximum_delta": "0.739471"
     },
     {
-        "sec": "101",
-        "value": "0.837982"
+        "interval": "101",
+        "Maximum_delta": "0.369873"
     },
     {
-        "sec": "102",
-        "value": "0.773102"
+        "interval": "102",
+        "Maximum_delta": "0.868958"
     },
     {
-        "sec": "103",
-        "value": "0.791840"
+        "interval": "103",
+        "Maximum_delta": "0.572815"
     },
     {
-        "sec": "104",
-        "value": "0.876373"
+        "interval": "104",
+        "Maximum_delta": "0.802429"
     },
     {
-        "sec": "105",
-        "value": "0.898499"
+        "interval": "105",
+        "Maximum_delta": "0.487274"
     },
     {
-        "sec": "106",
-        "value": "1.001617"
+        "interval": "106",
+        "Maximum_delta": "0.692932"
     },
     {
-        "sec": "107",
-        "value": "0.774292"
+        "interval": "107",
+        "Maximum_delta": "0.889496"
     },
     {
-        "sec": "108",
-        "value": "0.851257"
+        "interval": "108",
+        "Maximum_delta": "0.739502"
     },
     {
-        "sec": "109",
-        "value": "0.824005"
+        "interval": "109",
+        "Maximum_delta": "0.820313"
     },
     {
-        "sec": "110",
-        "value": "0.959656"
+        "interval": "110",
+        "Maximum_delta": "0.911530"
     },
     {
-        "sec": "111",
-        "value": "0.839661"
+        "interval": "111",
+        "Maximum_delta": "0.886292"
     },
     {
-        "sec": "112",
-        "value": "0.752350"
+        "interval": "112",
+        "Maximum_delta": "0.713593"
     },
     {
-        "sec": "113",
-        "value": "0.864349"
+        "interval": "113",
+        "Maximum_delta": "0.509583"
     },
     {
-        "sec": "114",
-        "value": "0.644684"
+        "interval": "114",
+        "Maximum_delta": "0.766510"
     },
     {
-        "sec": "115",
-        "value": "0.555786"
+        "interval": "115",
+        "Maximum_delta": "1.032379"
     },
     {
-        "sec": "116",
-        "value": "0.578430"
+        "interval": "116",
+        "Maximum_delta": "0.721375"
     },
     {
-        "sec": "117",
-        "value": "0.604645"
+        "interval": "117",
+        "Maximum_delta": "1.027527"
     },
     {
-        "sec": "118",
-        "value": "0.689362"
+        "interval": "118",
+        "Maximum_delta": "0.691315"
     },
     {
-        "sec": "119",
-        "value": "0.618866"
+        "interval": "119",
+        "Maximum_delta": "0.553436"
     },
     {
-        "sec": "120",
-        "value": "0.719269"
+        "interval": "120",
+        "Maximum_delta": "0.691345"
     },
     {
-        "sec": "121",
-        "value": "0.697632"
+        "interval": "121",
+        "Maximum_delta": "0.693420"
     },
     {
-        "sec": "122",
-        "value": "0.782471"
+        "interval": "122",
+        "Maximum_delta": "0.759399"
     },
     {
-        "sec": "123",
-        "value": "0.763062"
+        "interval": "123",
+        "Maximum_delta": "0.755554"
     },
     {
-        "sec": "124",
-        "value": "0.759094"
+        "interval": "124",
+        "Maximum_delta": "0.837311"
     },
     {
-        "sec": "125",
-        "value": "0.619080"
+        "interval": "125",
+        "Maximum_delta": "1.052399"
     },
     {
-        "sec": "126",
-        "value": "0.563660"
+        "interval": "126",
+        "Maximum_delta": "0.877472"
     },
     {
-        "sec": "127",
-        "value": "0.702087"
+        "interval": "127",
+        "Maximum_delta": "0.998474"
     },
     {
-        "sec": "128",
-        "value": "0.619690"
+        "interval": "128",
+        "Maximum_delta": "0.964935"
     },
     {
-        "sec": "129",
-        "value": "0.590820"
+        "interval": "129",
+        "Maximum_delta": "0.923645"
     },
     {
-        "sec": "130",
-        "value": "0.780396"
+        "interval": "130",
+        "Maximum_delta": "0.970398"
     },
     {
-        "sec": "131",
-        "value": "0.847717"
+        "interval": "131",
+        "Maximum_delta": "0.831512"
     },
     {
-        "sec": "132",
-        "value": "0.603302"
+        "interval": "132",
+        "Maximum_delta": "0.783997"
     },
     {
-        "sec": "133",
-        "value": "0.630310"
+        "interval": "133",
+        "Maximum_delta": "0.937103"
     },
     {
-        "sec": "134",
-        "value": "0.635864"
+        "interval": "134",
+        "Maximum_delta": "0.946320"
     },
     {
-        "sec": "135",
-        "value": "0.657043"
+        "interval": "135",
+        "Maximum_delta": "1.596100"
     },
     {
-        "sec": "136",
-        "value": "1.337006"
+        "interval": "136",
+        "Maximum_delta": "1.504089"
     },
     {
-        "sec": "137",
-        "value": "0.664642"
+        "interval": "137",
+        "Maximum_delta": "0.821045"
     },
     {
-        "sec": "138",
-        "value": "0.725281"
+        "interval": "138",
+        "Maximum_delta": "0.736145"
     },
     {
-        "sec": "139",
-        "value": "0.920319"
+        "interval": "139",
+        "Maximum_delta": "0.995758"
     },
     {
-        "sec": "140",
-        "value": "0.663483"
+        "interval": "140",
+        "Maximum_delta": "0.804596"
     },
     {
-        "sec": "141",
-        "value": "0.696991"
+        "interval": "141",
+        "Maximum_delta": "0.892822"
     },
     {
-        "sec": "142",
-        "value": "0.976013"
+        "interval": "142",
+        "Maximum_delta": "0.947266"
     },
     {
-        "sec": "143",
-        "value": "0.838776"
+        "interval": "143",
+        "Maximum_delta": "0.715485"
     },
     {
-        "sec": "144",
-        "value": "0.832031"
+        "interval": "144",
+        "Maximum_delta": "0.775360"
     },
     {
-        "sec": "145",
-        "value": "0.893585"
+        "interval": "145",
+        "Maximum_delta": "0.785309"
     },
     {
-        "sec": "146",
-        "value": "0.935944"
+        "interval": "146",
+        "Maximum_delta": "0.945343"
     },
     {
-        "sec": "147",
-        "value": "0.793152"
+        "interval": "147",
+        "Maximum_delta": "1.062927"
     },
     {
-        "sec": "148",
-        "value": "0.873199"
+        "interval": "148",
+        "Maximum_delta": "0.800690"
     },
     {
-        "sec": "149",
-        "value": "1.145447"
+        "interval": "149",
+        "Maximum_delta": "0.761810"
     },
     {
-        "sec": "150",
-        "value": "1.028259"
+        "interval": "150",
+        "Maximum_delta": "0.959656"
     },
     {
-        "sec": "151",
-        "value": "1.074463"
+        "interval": "151",
+        "Maximum_delta": "1.186798"
     },
     {
-        "sec": "152",
-        "value": "1.311218"
+        "interval": "152",
+        "Maximum_delta": "1.362366"
     },
     {
-        "sec": "153",
-        "value": "1.147522"
+        "interval": "153",
+        "Maximum_delta": "0.786285"
     },
     {
-        "sec": "154",
-        "value": "1.796539"
+        "interval": "154",
+        "Maximum_delta": "0.875000"
     },
     {
-        "sec": "155",
-        "value": "1.446014"
+        "interval": "155",
+        "Maximum_delta": "0.736084"
     },
     {
-        "sec": "156",
-        "value": "0.965363"
+        "interval": "156",
+        "Maximum_delta": "0.752289"
     },
     {
-        "sec": "157",
-        "value": "1.043243"
+        "interval": "157",
+        "Maximum_delta": "0.956329"
     },
     {
-        "sec": "158",
-        "value": "1.161407"
+        "interval": "158",
+        "Maximum_delta": "0.776520"
     },
     {
-        "sec": "159",
-        "value": "0.901276"
+        "interval": "159",
+        "Maximum_delta": "1.132324"
     },
     {
-        "sec": "160",
-        "value": "1.025360"
+        "interval": "160",
+        "Maximum_delta": "0.980225"
     },
     {
-        "sec": "161",
-        "value": "1.639160"
+        "interval": "161",
+        "Maximum_delta": "0.868286"
     },
     {
-        "sec": "162",
-        "value": "1.435730"
+        "interval": "162",
+        "Maximum_delta": "1.067993"
     },
     {
-        "sec": "163",
-        "value": "0.911926"
+        "interval": "163",
+        "Maximum_delta": "0.878876"
     },
     {
-        "sec": "164",
-        "value": "1.041412"
+        "interval": "164",
+        "Maximum_delta": "0.868958"
     },
     {
-        "sec": "165",
-        "value": "0.921326"
+        "interval": "165",
+        "Maximum_delta": "0.944763"
     },
     {
-        "sec": "166",
-        "value": "1.102875"
+        "interval": "166",
+        "Maximum_delta": "1.035126"
     },
     {
-        "sec": "167",
-        "value": "1.174072"
+        "interval": "167",
+        "Maximum_delta": "1.560425"
     },
     {
-        "sec": "168",
-        "value": "0.984192"
+        "interval": "168",
+        "Maximum_delta": "1.151123"
     },
     {
-        "sec": "169",
-        "value": "1.636169"
+        "interval": "169",
+        "Maximum_delta": "0.799011"
     },
     {
-        "sec": "170",
-        "value": "1.607758"
+        "interval": "170",
+        "Maximum_delta": "0.811768"
     },
     {
-        "sec": "171",
-        "value": "1.247772"
+        "interval": "171",
+        "Maximum_delta": "0.833038"
     },
     {
-        "sec": "172",
-        "value": "1.122437"
+        "interval": "172",
+        "Maximum_delta": "0.836426"
     },
     {
-        "sec": "173",
-        "value": "1.099182"
+        "interval": "173",
+        "Maximum_delta": "0.977325"
     },
     {
-        "sec": "174",
-        "value": "0.963959"
+        "interval": "174",
+        "Maximum_delta": "0.930420"
     },
     {
-        "sec": "175",
-        "value": "1.218414"
+        "interval": "175",
+        "Maximum_delta": "0.697266"
     },
     {
-        "sec": "176",
-        "value": "1.207001"
+        "interval": "176",
+        "Maximum_delta": "0.840179"
     },
     {
-        "sec": "177",
-        "value": "1.101044"
+        "interval": "177",
+        "Maximum_delta": "0.782104"
     },
     {
-        "sec": "178",
-        "value": "1.467621"
+        "interval": "178",
+        "Maximum_delta": "0.807037"
     },
     {
-        "sec": "179",
-        "value": "0.669952"
+        "interval": "179",
+        "Maximum_delta": "1.034851"
     },
     {
-        "sec": "180",
-        "value": "0.447906"
+        "interval": "180",
+        "Maximum_delta": "1.213257"
     },
     {
-        "sec": "181",
-        "value": "0.635132"
+        "interval": "181",
+        "Maximum_delta": "0.958099"
     },
     {
-        "sec": "182",
-        "value": "0.514374"
+        "interval": "182",
+        "Maximum_delta": "1.039551"
     },
     {
-        "sec": "183",
-        "value": "0.503265"
+        "interval": "183",
+        "Maximum_delta": "1.382446"
     },
     {
-        "sec": "184",
-        "value": "0.707397"
+        "interval": "184",
+        "Maximum_delta": "1.264221"
     },
     {
-        "sec": "185",
-        "value": "0.802856"
+        "interval": "185",
+        "Maximum_delta": "1.539337"
     },
     {
-        "sec": "186",
-        "value": "0.621826"
+        "interval": "186",
+        "Maximum_delta": "1.294250"
     },
     {
-        "sec": "187",
-        "value": "0.628967"
+        "interval": "187",
+        "Maximum_delta": "1.400574"
     },
     {
-        "sec": "188",
-        "value": "0.725189"
+        "interval": "188",
+        "Maximum_delta": "1.129181"
     },
     {
-        "sec": "189",
-        "value": "0.614746"
+        "interval": "189",
+        "Maximum_delta": "1.348022"
     },
     {
-        "sec": "190",
-        "value": "0.722382"
+        "interval": "190",
+        "Maximum_delta": "1.137604"
     },
     {
-        "sec": "191",
-        "value": "0.690063"
+        "interval": "191",
+        "Maximum_delta": "1.168945"
     },
     {
-        "sec": "192",
-        "value": "0.710510"
+        "interval": "192",
+        "Maximum_delta": "1.012695"
     },
     {
-        "sec": "193",
-        "value": "0.685211"
+        "interval": "193",
+        "Maximum_delta": "0.862762"
     },
     {
-        "sec": "194",
-        "value": "0.715240"
+        "interval": "194",
+        "Maximum_delta": "0.688385"
     },
     {
-        "sec": "195",
-        "value": "0.689362"
+        "interval": "195",
+        "Maximum_delta": "0.530884"
     },
     {
-        "sec": "196",
-        "value": "0.680450"
+        "interval": "196",
+        "Maximum_delta": "0.815491"
     },
     {
-        "sec": "197",
-        "value": "0.974365"
+        "interval": "197",
+        "Maximum_delta": "0.551758"
     },
     {
-        "sec": "198",
-        "value": "0.729584"
+        "interval": "198",
+        "Maximum_delta": "0.760071"
     },
     {
-        "sec": "199",
-        "value": "0.899475"
+        "interval": "199",
+        "Maximum_delta": "0.644073"
     },
     {
-        "sec": "200",
-        "value": "0.979919"
+        "interval": "200",
+        "Maximum_delta": "0.757599"
     },
     {
-        "sec": "201",
-        "value": "0.853302"
+        "interval": "201",
+        "Maximum_delta": "0.935669"
     },
     {
-        "sec": "202",
-        "value": "0.717010"
+        "interval": "202",
+        "Maximum_delta": "0.668732"
     },
     {
-        "sec": "203",
-        "value": "0.875519"
+        "interval": "203",
+        "Maximum_delta": "0.837860"
     },
     {
-        "sec": "204",
-        "value": "0.921509"
+        "interval": "204",
+        "Maximum_delta": "0.593781"
     },
     {
-        "sec": "205",
-        "value": "1.501373"
+        "interval": "205",
+        "Maximum_delta": "0.558777"
     },
     {
-        "sec": "206",
-        "value": "1.338165"
+        "interval": "206",
+        "Maximum_delta": "0.320587"
     },
     {
-        "sec": "207",
-        "value": "0.764648"
+        "interval": "207",
+        "Maximum_delta": "1.000214"
     },
     {
-        "sec": "208",
-        "value": "0.893402"
+        "interval": "208",
+        "Maximum_delta": "1.100525"
     },
     {
-        "sec": "209",
-        "value": "0.971344"
+        "interval": "209",
+        "Maximum_delta": "1.092377"
     },
     {
-        "sec": "210",
-        "value": "0.909760"
+        "interval": "210",
+        "Maximum_delta": "0.819794"
     },
     {
-        "sec": "211",
-        "value": "1.109436"
+        "interval": "211",
+        "Maximum_delta": "0.870148"
     },
     {
-        "sec": "212",
-        "value": "0.930725"
+        "interval": "212",
+        "Maximum_delta": "0.954041"
     },
     {
-        "sec": "213",
-        "value": "1.401367"
+        "interval": "213",
+        "Maximum_delta": "0.627594"
     },
     {
-        "sec": "214",
-        "value": "0.996094"
+        "interval": "214",
+        "Maximum_delta": "0.837982"
     },
     {
-        "sec": "215",
-        "value": "0.849274"
+        "interval": "215",
+        "Maximum_delta": "0.680573"
     },
     {
-        "sec": "216",
-        "value": "0.925537"
+        "interval": "216",
+        "Maximum_delta": "0.749207"
     },
     {
-        "sec": "217",
-        "value": "0.865051"
+        "interval": "217",
+        "Maximum_delta": "0.773102"
     },
     {
-        "sec": "218",
-        "value": "0.979919"
+        "interval": "218",
+        "Maximum_delta": "0.790436"
     },
     {
-        "sec": "219",
-        "value": "1.002747"
+        "interval": "219",
+        "Maximum_delta": "0.791840"
     },
     {
-        "sec": "220",
-        "value": "1.284393"
+        "interval": "220",
+        "Maximum_delta": "0.872131"
     },
     {
-        "sec": "221",
-        "value": "1.496948"
+        "interval": "221",
+        "Maximum_delta": "0.876373"
     },
     {
-        "sec": "222",
-        "value": "0.797607"
+        "interval": "222",
+        "Maximum_delta": "0.815125"
     },
     {
-        "sec": "223",
-        "value": "0.886780"
+        "interval": "223",
+        "Maximum_delta": "0.822632"
     },
     {
-        "sec": "224",
-        "value": "1.142426"
+        "interval": "224",
+        "Maximum_delta": "0.898499"
     },
     {
-        "sec": "225",
-        "value": "0.946777"
+        "interval": "225",
+        "Maximum_delta": "1.001617"
     },
     {
-        "sec": "226",
-        "value": "0.968292"
+        "interval": "226",
+        "Maximum_delta": "0.764221"
     },
     {
-        "sec": "227",
-        "value": "1.138000"
+        "interval": "227",
+        "Maximum_delta": "0.720459"
     },
     {
-        "sec": "228",
-        "value": "0.686157"
+        "interval": "228",
+        "Maximum_delta": "0.774292"
     },
     {
-        "sec": "229",
-        "value": "1.075470"
+        "interval": "229",
+        "Maximum_delta": "0.753815"
     },
     {
-        "sec": "230",
-        "value": "0.678802"
+        "interval": "230",
+        "Maximum_delta": "0.851257"
     },
     {
-        "sec": "231",
-        "value": "0.829193"
+        "interval": "231",
+        "Maximum_delta": "0.681580"
     },
     {
-        "sec": "232",
-        "value": "0.613861"
+        "interval": "232",
+        "Maximum_delta": "0.952118"
     },
     {
-        "sec": "233",
-        "value": "0.762848"
+        "interval": "233",
+        "Maximum_delta": "0.959656"
     },
     {
-        "sec": "234",
-        "value": "0.538452"
+        "interval": "234",
+        "Maximum_delta": "0.752228"
     },
     {
-        "sec": "235",
-        "value": "0.598114"
+        "interval": "235",
+        "Maximum_delta": "0.805969"
     },
     {
-        "sec": "236",
-        "value": "0.736328"
+        "interval": "236",
+        "Maximum_delta": "0.839661"
     },
     {
-        "sec": "237",
-        "value": "0.765503"
+        "interval": "237",
+        "Maximum_delta": "0.752350"
     },
     {
-        "sec": "238",
-        "value": "0.900848"
+        "interval": "238",
+        "Maximum_delta": "0.718750"
     },
     {
-        "sec": "239",
-        "value": "0.630585"
+        "interval": "239",
+        "Maximum_delta": "0.633606"
     },
     {
-        "sec": "240",
-        "value": "0.598480"
+        "interval": "240",
+        "Maximum_delta": "0.673798"
     },
     {
-        "sec": "241",
-        "value": "0.589569"
+        "interval": "241",
+        "Maximum_delta": "0.864349"
     },
     {
-        "sec": "242",
-        "value": "0.675751"
+        "interval": "242",
+        "Maximum_delta": "0.644684"
     },
     {
-        "sec": "243",
-        "value": "0.691650"
+        "interval": "243",
+        "Maximum_delta": "0.342224"
     },
     {
-        "sec": "244",
-        "value": "0.951263"
+        "interval": "244",
+        "Maximum_delta": "0.555786"
     },
     {
-        "sec": "245",
-        "value": "1.069244"
+        "interval": "245",
+        "Maximum_delta": "0.338318"
     },
     {
-        "sec": "246",
-        "value": "1.564026"
+        "interval": "246",
+        "Maximum_delta": "0.578430"
     },
     {
-        "sec": "247",
-        "value": "1.521088"
+        "interval": "247",
+        "Maximum_delta": "0.426331"
     },
     {
-        "sec": "248",
-        "value": "1.883362"
+        "interval": "248",
+        "Maximum_delta": "0.604645"
     },
     {
-        "sec": "249",
-        "value": "1.911011"
+        "interval": "249",
+        "Maximum_delta": "0.376129"
     },
     {
-        "sec": "250",
-        "value": "1.469360"
+        "interval": "250",
+        "Maximum_delta": "0.689362"
     },
     {
-        "sec": "251",
-        "value": "1.348297"
+        "interval": "251",
+        "Maximum_delta": "0.638977"
     },
     {
-        "sec": "252",
-        "value": "1.635132"
+        "interval": "252",
+        "Maximum_delta": "0.618866"
     },
     {
-        "sec": "253",
-        "value": "1.474030"
+        "interval": "253",
+        "Maximum_delta": "0.368164"
     },
     {
-        "sec": "254",
-        "value": "1.377625"
+        "interval": "254",
+        "Maximum_delta": "0.595337"
     },
     {
-        "sec": "255",
-        "value": "1.291534"
+        "interval": "255",
+        "Maximum_delta": "0.719269"
     },
     {
-        "sec": "256",
-        "value": "1.279999"
+        "interval": "256",
+        "Maximum_delta": "0.246307"
     },
     {
-        "sec": "257",
-        "value": "1.076874"
+        "interval": "257",
+        "Maximum_delta": "0.697632"
     },
     {
-        "sec": "258",
-        "value": "1.309570"
+        "interval": "258",
+        "Maximum_delta": "0.782471"
     },
     {
-        "sec": "259",
-        "value": "1.147247"
+        "interval": "259",
+        "Maximum_delta": "0.661835"
     },
     {
-        "sec": "260",
-        "value": "1.517181"
+        "interval": "260",
+        "Maximum_delta": "0.763062"
     },
     {
-        "sec": "261",
-        "value": "1.406250"
+        "interval": "261",
+        "Maximum_delta": "0.385071"
     },
     {
-        "sec": "262",
-        "value": "1.188965"
+        "interval": "262",
+        "Maximum_delta": "0.659668"
     },
     {
-        "sec": "263",
-        "value": "1.311981"
+        "interval": "263",
+        "Maximum_delta": "0.366608"
     },
     {
-        "sec": "264",
-        "value": "1.350159"
+        "interval": "264",
+        "Maximum_delta": "0.759094"
     },
     {
-        "sec": "265",
-        "value": "1.584900"
+        "interval": "265",
+        "Maximum_delta": "0.463562"
     },
     {
-        "sec": "266",
-        "value": "1.429565"
+        "interval": "266",
+        "Maximum_delta": "0.619080"
     },
     {
-        "sec": "267",
-        "value": "1.563141"
+        "interval": "267",
+        "Maximum_delta": "0.435608"
     },
     {
-        "sec": "268",
-        "value": "1.477722"
+        "interval": "268",
+        "Maximum_delta": "0.563660"
     },
     {
-        "sec": "269",
-        "value": "1.801422"
+        "interval": "269",
+        "Maximum_delta": "0.673798"
     },
     {
-        "sec": "270",
-        "value": "0.982269"
+        "interval": "270",
+        "Maximum_delta": "0.702087"
     },
     {
-        "sec": "271",
-        "value": "1.429047"
+        "interval": "271",
+        "Maximum_delta": "0.356964"
     },
     {
-        "sec": "272",
-        "value": "1.054108"
+        "interval": "272",
+        "Maximum_delta": "0.619690"
     },
     {
-        "sec": "273",
-        "value": "1.843933"
+        "interval": "273",
+        "Maximum_delta": "0.474792"
     },
     {
-        "sec": "274",
-        "value": "1.386780"
+        "interval": "274",
+        "Maximum_delta": "0.590820"
     },
     {
-        "sec": "275",
-        "value": "1.184021"
+        "interval": "275",
+        "Maximum_delta": "0.423615"
     },
     {
-        "sec": "276",
-        "value": "1.135742"
+        "interval": "276",
+        "Maximum_delta": "0.780396"
     },
     {
-        "sec": "277",
-        "value": "1.554810"
+        "interval": "277",
+        "Maximum_delta": "0.420410"
     },
     {
-        "sec": "278",
-        "value": "1.723083"
+        "interval": "278",
+        "Maximum_delta": "0.847717"
     },
     {
-        "sec": "279",
-        "value": "0.708435"
+        "interval": "279",
+        "Maximum_delta": "0.445374"
     },
     {
-        "sec": "280",
-        "value": "0.153931"
+        "interval": "280",
+        "Maximum_delta": "0.603302"
     },
     {
-        "sec": "281",
-        "value": "0.030304"
+        "interval": "281",
+        "Maximum_delta": "0.630310"
     },
     {
-        "sec": "282",
-        "value": "0.002350"
+        "interval": "282",
+        "Maximum_delta": "0.609894"
     },
     {
-        "sec": "283",
-        "value": "0.000244"
+        "interval": "283",
+        "Maximum_delta": "0.635864"
+    },
+    {
+        "interval": "284",
+        "Maximum_delta": "0.611542"
+    },
+    {
+        "interval": "285",
+        "Maximum_delta": "0.473663"
+    },
+    {
+        "interval": "286",
+        "Maximum_delta": "0.657043"
+    },
+    {
+        "interval": "287",
+        "Maximum_delta": "0.589752"
+    },
+    {
+        "interval": "288",
+        "Maximum_delta": "1.337006"
+    },
+    {
+        "interval": "289",
+        "Maximum_delta": "0.816162"
+    },
+    {
+        "interval": "290",
+        "Maximum_delta": "0.664642"
+    },
+    {
+        "interval": "291",
+        "Maximum_delta": "0.545013"
+    },
+    {
+        "interval": "292",
+        "Maximum_delta": "0.725281"
+    },
+    {
+        "interval": "293",
+        "Maximum_delta": "0.381531"
+    },
+    {
+        "interval": "294",
+        "Maximum_delta": "0.920319"
+    },
+    {
+        "interval": "295",
+        "Maximum_delta": "0.465057"
+    },
+    {
+        "interval": "296",
+        "Maximum_delta": "0.636108"
+    },
+    {
+        "interval": "297",
+        "Maximum_delta": "0.458435"
+    },
+    {
+        "interval": "298",
+        "Maximum_delta": "0.663483"
+    },
+    {
+        "interval": "299",
+        "Maximum_delta": "0.696991"
+    },
+    {
+        "interval": "300",
+        "Maximum_delta": "0.700012"
+    },
+    {
+        "interval": "301",
+        "Maximum_delta": "0.964569"
+    },
+    {
+        "interval": "302",
+        "Maximum_delta": "0.976013"
+    },
+    {
+        "interval": "303",
+        "Maximum_delta": "0.838776"
+    },
+    {
+        "interval": "304",
+        "Maximum_delta": "0.629272"
+    },
+    {
+        "interval": "305",
+        "Maximum_delta": "0.501678"
+    },
+    {
+        "interval": "306",
+        "Maximum_delta": "0.832031"
+    },
+    {
+        "interval": "307",
+        "Maximum_delta": "0.854401"
+    },
+    {
+        "interval": "308",
+        "Maximum_delta": "0.893585"
+    },
+    {
+        "interval": "309",
+        "Maximum_delta": "0.935944"
+    },
+    {
+        "interval": "310",
+        "Maximum_delta": "0.687927"
+    },
+    {
+        "interval": "311",
+        "Maximum_delta": "0.551544"
+    },
+    {
+        "interval": "312",
+        "Maximum_delta": "0.793152"
+    },
+    {
+        "interval": "313",
+        "Maximum_delta": "0.658600"
+    },
+    {
+        "interval": "314",
+        "Maximum_delta": "0.873199"
+    },
+    {
+        "interval": "315",
+        "Maximum_delta": "0.761139"
+    },
+    {
+        "interval": "316",
+        "Maximum_delta": "0.865601"
+    },
+    {
+        "interval": "317",
+        "Maximum_delta": "1.145447"
+    },
+    {
+        "interval": "318",
+        "Maximum_delta": "1.028259"
+    },
+    {
+        "interval": "319",
+        "Maximum_delta": "1.074463"
+    },
+    {
+        "interval": "320",
+        "Maximum_delta": "1.007599"
+    },
+    {
+        "interval": "321",
+        "Maximum_delta": "0.921234"
+    },
+    {
+        "interval": "322",
+        "Maximum_delta": "1.311218"
+    },
+    {
+        "interval": "323",
+        "Maximum_delta": "1.132202"
+    },
+    {
+        "interval": "324",
+        "Maximum_delta": "1.019012"
+    },
+    {
+        "interval": "325",
+        "Maximum_delta": "1.147522"
+    },
+    {
+        "interval": "326",
+        "Maximum_delta": "1.192749"
+    },
+    {
+        "interval": "327",
+        "Maximum_delta": "1.796539"
+    },
+    {
+        "interval": "328",
+        "Maximum_delta": "1.446014"
+    },
+    {
+        "interval": "329",
+        "Maximum_delta": "0.955719"
+    },
+    {
+        "interval": "330",
+        "Maximum_delta": "0.777191"
+    },
+    {
+        "interval": "331",
+        "Maximum_delta": "0.965363"
+    },
+    {
+        "interval": "332",
+        "Maximum_delta": "0.792297"
+    },
+    {
+        "interval": "333",
+        "Maximum_delta": "1.043243"
+    },
+    {
+        "interval": "334",
+        "Maximum_delta": "1.161407"
+    },
+    {
+        "interval": "335",
+        "Maximum_delta": "0.785950"
+    },
+    {
+        "interval": "336",
+        "Maximum_delta": "0.760468"
+    },
+    {
+        "interval": "337",
+        "Maximum_delta": "0.901276"
+    },
+    {
+        "interval": "338",
+        "Maximum_delta": "0.895935"
+    },
+    {
+        "interval": "339",
+        "Maximum_delta": "1.025360"
+    },
+    {
+        "interval": "340",
+        "Maximum_delta": "0.833221"
+    },
+    {
+        "interval": "341",
+        "Maximum_delta": "0.924591"
+    },
+    {
+        "interval": "342",
+        "Maximum_delta": "1.639160"
+    },
+    {
+        "interval": "343",
+        "Maximum_delta": "1.212463"
+    },
+    {
+        "interval": "344",
+        "Maximum_delta": "1.435730"
+    },
+    {
+        "interval": "345",
+        "Maximum_delta": "0.911926"
+    },
+    {
+        "interval": "346",
+        "Maximum_delta": "0.881195"
+    },
+    {
+        "interval": "347",
+        "Maximum_delta": "0.814911"
+    },
+    {
+        "interval": "348",
+        "Maximum_delta": "0.882111"
+    },
+    {
+        "interval": "349",
+        "Maximum_delta": "1.041412"
+    },
+    {
+        "interval": "350",
+        "Maximum_delta": "0.921326"
+    },
+    {
+        "interval": "351",
+        "Maximum_delta": "1.092743"
+    },
+    {
+        "interval": "352",
+        "Maximum_delta": "1.102875"
+    },
+    {
+        "interval": "353",
+        "Maximum_delta": "1.174072"
+    },
+    {
+        "interval": "354",
+        "Maximum_delta": "1.140930"
+    },
+    {
+        "interval": "355",
+        "Maximum_delta": "0.935059"
+    },
+    {
+        "interval": "356",
+        "Maximum_delta": "0.984192"
+    },
+    {
+        "interval": "357",
+        "Maximum_delta": "0.921539"
+    },
+    {
+        "interval": "358",
+        "Maximum_delta": "1.359253"
+    },
+    {
+        "interval": "359",
+        "Maximum_delta": "1.636169"
+    },
+    {
+        "interval": "360",
+        "Maximum_delta": "1.194855"
+    },
+    {
+        "interval": "361",
+        "Maximum_delta": "0.748199"
+    },
+    {
+        "interval": "362",
+        "Maximum_delta": "1.247772"
+    },
+    {
+        "interval": "363",
+        "Maximum_delta": "1.094849"
+    },
+    {
+        "interval": "364",
+        "Maximum_delta": "0.912323"
+    },
+    {
+        "interval": "365",
+        "Maximum_delta": "1.122437"
+    },
+    {
+        "interval": "366",
+        "Maximum_delta": "1.099182"
+    },
+    {
+        "interval": "367",
+        "Maximum_delta": "0.874817"
+    },
+    {
+        "interval": "368",
+        "Maximum_delta": "0.824188"
+    },
+    {
+        "interval": "369",
+        "Maximum_delta": "0.846283"
+    },
+    {
+        "interval": "370",
+        "Maximum_delta": "0.963959"
+    },
+    {
+        "interval": "371",
+        "Maximum_delta": "1.218414"
+    },
+    {
+        "interval": "372",
+        "Maximum_delta": "1.093750"
+    },
+    {
+        "interval": "373",
+        "Maximum_delta": "1.207001"
+    },
+    {
+        "interval": "374",
+        "Maximum_delta": "1.053833"
+    },
+    {
+        "interval": "375",
+        "Maximum_delta": "1.007019"
+    },
+    {
+        "interval": "376",
+        "Maximum_delta": "1.259827"
+    },
+    {
+        "interval": "377",
+        "Maximum_delta": "1.467621"
+    },
+    {
+        "interval": "378",
+        "Maximum_delta": "0.906921"
+    },
+    {
+        "interval": "379",
+        "Maximum_delta": "0.658783"
+    },
+    {
+        "interval": "380",
+        "Maximum_delta": "0.613678"
+    },
+    {
+        "interval": "381",
+        "Maximum_delta": "0.447906"
+    },
+    {
+        "interval": "382",
+        "Maximum_delta": "0.413879"
+    },
+    {
+        "interval": "383",
+        "Maximum_delta": "0.338135"
+    },
+    {
+        "interval": "384",
+        "Maximum_delta": "0.412048"
+    },
+    {
+        "interval": "385",
+        "Maximum_delta": "0.635132"
+    },
+    {
+        "interval": "386",
+        "Maximum_delta": "0.379486"
+    },
+    {
+        "interval": "387",
+        "Maximum_delta": "0.316895"
+    },
+    {
+        "interval": "388",
+        "Maximum_delta": "0.474457"
+    },
+    {
+        "interval": "389",
+        "Maximum_delta": "0.707397"
+    },
+    {
+        "interval": "390",
+        "Maximum_delta": "0.664856"
+    },
+    {
+        "interval": "391",
+        "Maximum_delta": "0.551697"
+    },
+    {
+        "interval": "392",
+        "Maximum_delta": "0.802856"
+    },
+    {
+        "interval": "393",
+        "Maximum_delta": "0.541534"
+    },
+    {
+        "interval": "394",
+        "Maximum_delta": "0.621826"
+    },
+    {
+        "interval": "395",
+        "Maximum_delta": "0.543579"
+    },
+    {
+        "interval": "396",
+        "Maximum_delta": "0.628967"
+    },
+    {
+        "interval": "397",
+        "Maximum_delta": "0.565552"
+    },
+    {
+        "interval": "398",
+        "Maximum_delta": "0.725189"
+    },
+    {
+        "interval": "399",
+        "Maximum_delta": "0.493561"
+    },
+    {
+        "interval": "400",
+        "Maximum_delta": "0.614746"
+    },
+    {
+        "interval": "401",
+        "Maximum_delta": "0.525055"
+    },
+    {
+        "interval": "402",
+        "Maximum_delta": "0.722382"
+    },
+    {
+        "interval": "403",
+        "Maximum_delta": "0.466400"
+    },
+    {
+        "interval": "404",
+        "Maximum_delta": "0.690063"
+    },
+    {
+        "interval": "405",
+        "Maximum_delta": "0.442749"
+    },
+    {
+        "interval": "406",
+        "Maximum_delta": "0.650909"
+    },
+    {
+        "interval": "407",
+        "Maximum_delta": "0.478516"
+    },
+    {
+        "interval": "408",
+        "Maximum_delta": "0.710510"
+    },
+    {
+        "interval": "409",
+        "Maximum_delta": "0.562683"
+    },
+    {
+        "interval": "410",
+        "Maximum_delta": "0.685211"
+    },
+    {
+        "interval": "411",
+        "Maximum_delta": "0.611877"
+    },
+    {
+        "interval": "412",
+        "Maximum_delta": "0.715240"
+    },
+    {
+        "interval": "413",
+        "Maximum_delta": "0.554871"
+    },
+    {
+        "interval": "414",
+        "Maximum_delta": "0.689362"
+    },
+    {
+        "interval": "415",
+        "Maximum_delta": "0.557343"
+    },
+    {
+        "interval": "416",
+        "Maximum_delta": "0.680450"
+    },
+    {
+        "interval": "417",
+        "Maximum_delta": "0.974365"
+    },
+    {
+        "interval": "418",
+        "Maximum_delta": "0.958405"
+    },
+    {
+        "interval": "419",
+        "Maximum_delta": "0.706696"
+    },
+    {
+        "interval": "420",
+        "Maximum_delta": "0.729584"
+    },
+    {
+        "interval": "421",
+        "Maximum_delta": "0.874390"
+    },
+    {
+        "interval": "422",
+        "Maximum_delta": "0.899475"
+    },
+    {
+        "interval": "423",
+        "Maximum_delta": "0.647797"
+    },
+    {
+        "interval": "424",
+        "Maximum_delta": "0.715637"
+    },
+    {
+        "interval": "425",
+        "Maximum_delta": "0.979919"
+    },
+    {
+        "interval": "426",
+        "Maximum_delta": "0.690063"
+    },
+    {
+        "interval": "427",
+        "Maximum_delta": "0.853302"
+    },
+    {
+        "interval": "428",
+        "Maximum_delta": "0.717010"
+    },
+    {
+        "interval": "429",
+        "Maximum_delta": "0.746765"
+    },
+    {
+        "interval": "430",
+        "Maximum_delta": "0.875519"
+    },
+    {
+        "interval": "431",
+        "Maximum_delta": "0.635468"
+    },
+    {
+        "interval": "432",
+        "Maximum_delta": "0.921509"
+    },
+    {
+        "interval": "433",
+        "Maximum_delta": "0.718445"
+    },
+    {
+        "interval": "434",
+        "Maximum_delta": "0.906891"
+    },
+    {
+        "interval": "435",
+        "Maximum_delta": "1.501373"
+    },
+    {
+        "interval": "436",
+        "Maximum_delta": "1.338165"
+    },
+    {
+        "interval": "437",
+        "Maximum_delta": "0.745575"
+    },
+    {
+        "interval": "438",
+        "Maximum_delta": "0.673431"
+    },
+    {
+        "interval": "439",
+        "Maximum_delta": "0.764648"
+    },
+    {
+        "interval": "440",
+        "Maximum_delta": "0.835693"
+    },
+    {
+        "interval": "441",
+        "Maximum_delta": "0.893402"
+    },
+    {
+        "interval": "442",
+        "Maximum_delta": "0.971344"
+    },
+    {
+        "interval": "443",
+        "Maximum_delta": "0.636810"
+    },
+    {
+        "interval": "444",
+        "Maximum_delta": "0.728363"
+    },
+    {
+        "interval": "445",
+        "Maximum_delta": "0.701477"
+    },
+    {
+        "interval": "446",
+        "Maximum_delta": "0.909760"
+    },
+    {
+        "interval": "447",
+        "Maximum_delta": "1.109436"
+    },
+    {
+        "interval": "448",
+        "Maximum_delta": "0.760193"
+    },
+    {
+        "interval": "449",
+        "Maximum_delta": "0.897156"
+    },
+    {
+        "interval": "450",
+        "Maximum_delta": "0.930725"
+    },
+    {
+        "interval": "451",
+        "Maximum_delta": "1.011658"
+    },
+    {
+        "interval": "452",
+        "Maximum_delta": "1.401367"
+    },
+    {
+        "interval": "453",
+        "Maximum_delta": "0.996094"
+    },
+    {
+        "interval": "454",
+        "Maximum_delta": "0.752655"
+    },
+    {
+        "interval": "455",
+        "Maximum_delta": "0.813690"
+    },
+    {
+        "interval": "456",
+        "Maximum_delta": "0.817535"
+    },
+    {
+        "interval": "457",
+        "Maximum_delta": "0.925537"
+    },
+    {
+        "interval": "458",
+        "Maximum_delta": "0.682159"
+    },
+    {
+        "interval": "459",
+        "Maximum_delta": "0.855408"
+    },
+    {
+        "interval": "460",
+        "Maximum_delta": "0.754395"
+    },
+    {
+        "interval": "461",
+        "Maximum_delta": "0.865051"
+    },
+    {
+        "interval": "462",
+        "Maximum_delta": "0.979919"
+    },
+    {
+        "interval": "463",
+        "Maximum_delta": "0.659515"
+    },
+    {
+        "interval": "464",
+        "Maximum_delta": "1.002747"
+    },
+    {
+        "interval": "465",
+        "Maximum_delta": "0.708710"
+    },
+    {
+        "interval": "466",
+        "Maximum_delta": "1.000488"
+    },
+    {
+        "interval": "467",
+        "Maximum_delta": "1.496948"
+    },
+    {
+        "interval": "468",
+        "Maximum_delta": "1.380249"
+    },
+    {
+        "interval": "469",
+        "Maximum_delta": "0.710907"
+    },
+    {
+        "interval": "470",
+        "Maximum_delta": "0.654846"
+    },
+    {
+        "interval": "471",
+        "Maximum_delta": "0.797607"
+    },
+    {
+        "interval": "472",
+        "Maximum_delta": "0.886780"
+    },
+    {
+        "interval": "473",
+        "Maximum_delta": "0.869049"
+    },
+    {
+        "interval": "474",
+        "Maximum_delta": "1.142426"
+    },
+    {
+        "interval": "475",
+        "Maximum_delta": "0.768402"
+    },
+    {
+        "interval": "476",
+        "Maximum_delta": "0.946777"
+    },
+    {
+        "interval": "477",
+        "Maximum_delta": "0.741577"
+    },
+    {
+        "interval": "478",
+        "Maximum_delta": "0.842133"
+    },
+    {
+        "interval": "479",
+        "Maximum_delta": "0.968292"
+    },
+    {
+        "interval": "480",
+        "Maximum_delta": "1.138000"
+    },
+    {
+        "interval": "481",
+        "Maximum_delta": "0.845123"
+    },
+    {
+        "interval": "482",
+        "Maximum_delta": "0.742950"
+    },
+    {
+        "interval": "483",
+        "Maximum_delta": "0.568726"
+    },
+    {
+        "interval": "484",
+        "Maximum_delta": "1.075470"
+    },
+    {
+        "interval": "485",
+        "Maximum_delta": "0.860168"
+    },
+    {
+        "interval": "486",
+        "Maximum_delta": "0.365936"
+    },
+    {
+        "interval": "487",
+        "Maximum_delta": "0.653442"
+    },
+    {
+        "interval": "488",
+        "Maximum_delta": "0.678802"
+    },
+    {
+        "interval": "489",
+        "Maximum_delta": "0.829193"
+    },
+    {
+        "interval": "490",
+        "Maximum_delta": "0.628357"
+    },
+    {
+        "interval": "491",
+        "Maximum_delta": "0.499176"
+    },
+    {
+        "interval": "492",
+        "Maximum_delta": "0.613861"
+    },
+    {
+        "interval": "493",
+        "Maximum_delta": "0.762848"
+    },
+    {
+        "interval": "494",
+        "Maximum_delta": "0.480133"
+    },
+    {
+        "interval": "495",
+        "Maximum_delta": "0.574219"
+    },
+    {
+        "interval": "496",
+        "Maximum_delta": "0.538452"
+    },
+    {
+        "interval": "497",
+        "Maximum_delta": "0.525574"
+    },
+    {
+        "interval": "498",
+        "Maximum_delta": "0.598114"
+    },
+    {
+        "interval": "499",
+        "Maximum_delta": "0.522980"
+    },
+    {
+        "interval": "500",
+        "Maximum_delta": "0.736328"
+    },
+    {
+        "interval": "501",
+        "Maximum_delta": "0.505890"
+    },
+    {
+        "interval": "502",
+        "Maximum_delta": "0.472717"
+    },
+    {
+        "interval": "503",
+        "Maximum_delta": "0.765503"
+    },
+    {
+        "interval": "504",
+        "Maximum_delta": "0.900848"
+    },
+    {
+        "interval": "505",
+        "Maximum_delta": "0.844696"
+    },
+    {
+        "interval": "506",
+        "Maximum_delta": "0.548553"
+    },
+    {
+        "interval": "507",
+        "Maximum_delta": "0.630585"
+    },
+    {
+        "interval": "508",
+        "Maximum_delta": "0.467987"
+    },
+    {
+        "interval": "509",
+        "Maximum_delta": "0.598480"
+    },
+    {
+        "interval": "510",
+        "Maximum_delta": "0.512451"
+    },
+    {
+        "interval": "511",
+        "Maximum_delta": "0.589569"
+    },
+    {
+        "interval": "512",
+        "Maximum_delta": "0.578613"
+    },
+    {
+        "interval": "513",
+        "Maximum_delta": "0.647583"
+    },
+    {
+        "interval": "514",
+        "Maximum_delta": "0.675751"
+    },
+    {
+        "interval": "515",
+        "Maximum_delta": "0.511261"
+    },
+    {
+        "interval": "516",
+        "Maximum_delta": "0.691650"
+    },
+    {
+        "interval": "517",
+        "Maximum_delta": "0.951263"
+    },
+    {
+        "interval": "518",
+        "Maximum_delta": "0.952545"
+    },
+    {
+        "interval": "519",
+        "Maximum_delta": "0.960052"
+    },
+    {
+        "interval": "520",
+        "Maximum_delta": "1.186584"
+    },
+    {
+        "interval": "521",
+        "Maximum_delta": "1.564026"
+    },
+    {
+        "interval": "522",
+        "Maximum_delta": "1.556610"
+    },
+    {
+        "interval": "523",
+        "Maximum_delta": "1.521088"
+    },
+    {
+        "interval": "524",
+        "Maximum_delta": "1.439423"
+    },
+    {
+        "interval": "525",
+        "Maximum_delta": "1.883362"
+    },
+    {
+        "interval": "526",
+        "Maximum_delta": "1.335236"
+    },
+    {
+        "interval": "527",
+        "Maximum_delta": "1.911011"
+    },
+    {
+        "interval": "528",
+        "Maximum_delta": "1.467407"
+    },
+    {
+        "interval": "529",
+        "Maximum_delta": "1.348267"
+    },
+    {
+        "interval": "530",
+        "Maximum_delta": "1.469360"
+    },
+    {
+        "interval": "531",
+        "Maximum_delta": "1.289795"
+    },
+    {
+        "interval": "532",
+        "Maximum_delta": "1.348297"
+    },
+    {
+        "interval": "533",
+        "Maximum_delta": "1.451935"
+    },
+    {
+        "interval": "534",
+        "Maximum_delta": "1.287994"
+    },
+    {
+        "interval": "535",
+        "Maximum_delta": "1.635132"
+    },
+    {
+        "interval": "536",
+        "Maximum_delta": "1.474030"
+    },
+    {
+        "interval": "537",
+        "Maximum_delta": "1.041473"
+    },
+    {
+        "interval": "538",
+        "Maximum_delta": "1.347351"
+    },
+    {
+        "interval": "539",
+        "Maximum_delta": "1.377625"
+    },
+    {
+        "interval": "540",
+        "Maximum_delta": "0.957153"
+    },
+    {
+        "interval": "541",
+        "Maximum_delta": "1.291534"
+    },
+    {
+        "interval": "542",
+        "Maximum_delta": "1.012482"
+    },
+    {
+        "interval": "543",
+        "Maximum_delta": "1.279999"
+    },
+    {
+        "interval": "544",
+        "Maximum_delta": "0.944153"
+    },
+    {
+        "interval": "545",
+        "Maximum_delta": "1.076874"
+    },
+    {
+        "interval": "546",
+        "Maximum_delta": "1.309570"
+    },
+    {
+        "interval": "547",
+        "Maximum_delta": "1.143280"
+    },
+    {
+        "interval": "548",
+        "Maximum_delta": "0.911285"
+    },
+    {
+        "interval": "549",
+        "Maximum_delta": "1.147247"
+    },
+    {
+        "interval": "550",
+        "Maximum_delta": "1.115784"
+    },
+    {
+        "interval": "551",
+        "Maximum_delta": "1.488281"
+    },
+    {
+        "interval": "552",
+        "Maximum_delta": "1.517181"
+    },
+    {
+        "interval": "553",
+        "Maximum_delta": "1.140594"
+    },
+    {
+        "interval": "554",
+        "Maximum_delta": "1.406250"
+    },
+    {
+        "interval": "555",
+        "Maximum_delta": "1.188965"
+    },
+    {
+        "interval": "556",
+        "Maximum_delta": "0.935089"
+    },
+    {
+        "interval": "557",
+        "Maximum_delta": "1.311981"
+    },
+    {
+        "interval": "558",
+        "Maximum_delta": "1.286377"
+    },
+    {
+        "interval": "559",
+        "Maximum_delta": "1.350159"
+    },
+    {
+        "interval": "560",
+        "Maximum_delta": "1.276550"
+    },
+    {
+        "interval": "561",
+        "Maximum_delta": "1.132935"
+    },
+    {
+        "interval": "562",
+        "Maximum_delta": "1.584900"
+    },
+    {
+        "interval": "563",
+        "Maximum_delta": "1.429565"
+    },
+    {
+        "interval": "564",
+        "Maximum_delta": "1.145447"
+    },
+    {
+        "interval": "565",
+        "Maximum_delta": "1.075104"
+    },
+    {
+        "interval": "566",
+        "Maximum_delta": "1.278381"
+    },
+    {
+        "interval": "567",
+        "Maximum_delta": "1.563141"
+    },
+    {
+        "interval": "568",
+        "Maximum_delta": "1.477722"
+    },
+    {
+        "interval": "569",
+        "Maximum_delta": "0.924622"
+    },
+    {
+        "interval": "570",
+        "Maximum_delta": "1.801422"
+    },
+    {
+        "interval": "571",
+        "Maximum_delta": "1.533417"
+    },
+    {
+        "interval": "572",
+        "Maximum_delta": "0.965210"
+    },
+    {
+        "interval": "573",
+        "Maximum_delta": "1.429047"
+    },
+    {
+        "interval": "574",
+        "Maximum_delta": "1.344727"
+    },
+    {
+        "interval": "575",
+        "Maximum_delta": "1.234955"
+    },
+    {
+        "interval": "576",
+        "Maximum_delta": "1.054108"
+    },
+    {
+        "interval": "577",
+        "Maximum_delta": "1.004242"
+    },
+    {
+        "interval": "578",
+        "Maximum_delta": "1.486084"
+    },
+    {
+        "interval": "579",
+        "Maximum_delta": "1.843933"
+    },
+    {
+        "interval": "580",
+        "Maximum_delta": "1.032928"
+    },
+    {
+        "interval": "581",
+        "Maximum_delta": "1.386780"
+    },
+    {
+        "interval": "582",
+        "Maximum_delta": "1.184021"
+    },
+    {
+        "interval": "583",
+        "Maximum_delta": "1.133331"
+    },
+    {
+        "interval": "584",
+        "Maximum_delta": "1.135742"
+    },
+    {
+        "interval": "585",
+        "Maximum_delta": "1.077271"
+    },
+    {
+        "interval": "586",
+        "Maximum_delta": "0.936310"
+    },
+    {
+        "interval": "587",
+        "Maximum_delta": "1.276611"
+    },
+    {
+        "interval": "588",
+        "Maximum_delta": "1.554810"
+    },
+    {
+        "interval": "589",
+        "Maximum_delta": "1.723083"
+    },
+    {
+        "interval": "590",
+        "Maximum_delta": "1.023254"
+    },
+    {
+        "interval": "591",
+        "Maximum_delta": "0.644440"
+    },
+    {
+        "interval": "592",
+        "Maximum_delta": "0.299622"
+    },
+    {
+        "interval": "593",
+        "Maximum_delta": "0.141296"
+    },
+    {
+        "interval": "594",
+        "Maximum_delta": "0.062531"
+    },
+    {
+        "interval": "595",
+        "Maximum_delta": "0.023132"
+    },
+    {
+        "interval": "596",
+        "Maximum_delta": "0.008453"
+    },
+    {
+        "interval": "597",
+        "Maximum_delta": "0.002350"
+    },
+    {
+        "interval": "598",
+        "Maximum_delta": "0.000610"
+    },
+    {
+        "interval": "599",
+        "Maximum_delta": "0.000244"
+    },
+    {
+        "interval": "600",
+        "Maximum_delta": "0.000092"
+    },
+    {
+        "interval": "601",
+        "Maximum_delta": "0.000092"
+    },
+    {
+        "interval": "602",
+        "Maximum_delta": "-0.000116"
     }
 ]
