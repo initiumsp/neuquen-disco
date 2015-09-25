@@ -3,7 +3,7 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
 @import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
 // endbower
 
-$base-size: 0.5px;
+$base-size: 0.5em;
 // WARNING: Following three variables must be adjusted together
 //          Unless you want to ignore the real ratio
 $figure-width: 560 * $base-size;
