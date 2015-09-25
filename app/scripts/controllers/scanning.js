@@ -8,7 +8,7 @@
  * Controller of the neuqueninitiumdatacomApp
  */
 angular.module('neuqueninitiumdatacomApp')
-  .controller('ScanningCtrl', function ($scope) {
+  .controller('ScanningCtrl', function ($scope, $timeout) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
@@ -16,7 +16,7 @@ angular.module('neuqueninitiumdatacomApp')
     ];
     $scope.test = function(){
       alert('hel');
-    }
+    };
 
     $('#mixer').keypress(function(){
       if ( event.which == 'a'.charCodeAt(0) ) {
@@ -38,7 +38,14 @@ angular.module('neuqueninitiumdatacomApp')
         $scope.$apply();
         return ;
       }
-    })
+    });
+
+    var beat = 1;
+    for (var i=0; i<10; i++) {
+      $timeout(function(){
+        $scope.showStation1 = !$scope.showStation1;
+      }, beat * i * 1000);
+    }
   });
 
 //angular.directive('myEnter', function () {
