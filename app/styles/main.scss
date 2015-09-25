@@ -148,10 +148,15 @@ $figure-height: $figure-height * $scaling-factor;
     &.station3 {
       transform-orientation: left bottom;
       transform: rotate($longitude-station3);
-      visibility: hidden;
+      //visibility: hidden;
       //animation:spin3 8s linear infinite;
     }
     //@keyframes spin3 { 100% { -webkit-transform: rotate(630deg); transform:rotate(630deg); } }
   }
 }
 
+#mixer {
+  margin: 2em;
+  padding: 2em;
+  text-align: center;
+}

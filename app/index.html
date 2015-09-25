@@ -14,57 +14,82 @@
     <link rel="stylesheet" href="styles/main.css">
     <!-- endbuild -->
   </head>
+  <body ng-app="neuqueninitiumdatacomApp">
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
 
-  <body>
-      <div id="illustration">
-        <div class="moon">
-          <img src="images/moon.svg" alt=""/>
-        </div>
-        <div class="rotate-group">
-          <a href="javascript:toggleThirdStation()">
-            <img class="earth" src="images/earth_top.svg" alt=""/>
-          </a>
-          <div class="regiongroup station1 red">
-            <div class="region left">
-            </div>
-            <div class="region right">
-            </div>
-          </div>
-          <div class="regiongroup station2 red">
-            <div class="region left">
-            </div>
-            <div class="region right">
-            </div>
-          </div>
-          <div class="regiongroup station3 green">
-            <div class="region left">
-            </div>
-            <div class="region right">
-            </div>
-          </div>
-        </div>
-      </div>
+    <!-- Add your site or application content here -->
+    <!--<div class="header">-->
+      <!--<div class="navbar navbar-default" role="navigation">-->
+        <!--<div class="container">-->
+          <!--<div class="navbar-header">-->
 
-      <script>
-        window.toggleThirdStation = function(){
-          //alert('h');
-          var station3 = document.querySelector('.station3');
-          if (station3.style.visibility == 'visible'){
-            station3.style.visibility = 'hidden';
-          } else {
-            station3.style.visibility = 'visible';
-          }
-        };
-      </script>
+            <!--<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#js-navbar-collapse">-->
+              <!--<span class="sr-only">Toggle navigation</span>-->
+              <!--<span class="icon-bar"></span>-->
+              <!--<span class="icon-bar"></span>-->
+              <!--<span class="icon-bar"></span>-->
+            <!--</button>-->
 
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            <!--<a class="navbar-brand" href="#/">neuqueninitiumdatacom</a>-->
+          <!--</div>-->
 
-        ga('create', 'UA-64001430-3', 'auto');
-        ga('send', 'pageview');
-      </script>
-  </body>
+          <!--<div class="collapse navbar-collapse" id="js-navbar-collapse">-->
+
+            <!--<ul class="nav navbar-nav">-->
+              <!--<li class="active"><a href="#/">Home</a></li>-->
+            <!--</ul>-->
+          <!--</div>-->
+        <!--</div>-->
+      <!--</div>-->
+    <!--</div>-->
+
+    <div class="container">
+    <div ng-view=""></div>
+    </div>
+
+    <!--<div class="footer">-->
+      <!--<div class="container">-->
+        <!--<p><span class="glyphicon glyphicon-heart"></span> from the Yeoman team</p>-->
+      <!--</div>-->
+    <!--</div>-->
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-64001430-3', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+    <!-- build:js(.) scripts/vendor.js -->
+    <!-- bower:js -->
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+    <script src="bower_components/angular-aria/angular-aria.js"></script>
+    <script src="bower_components/angular-cookies/angular-cookies.js"></script>
+    <script src="bower_components/angular-messages/angular-messages.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+    <script src="bower_components/angular-touch/angular-touch.js"></script>
+    <!-- endbower -->
+    <!-- endbuild -->
+
+        <!-- build:js({.tmp,app}) scripts/scripts.js -->
+        <script src="scripts/app.js"></script>
+        <script src="scripts/controllers/main.js"></script>
+        <script src="scripts/controllers/about.js"></script>
+        <script src="scripts/controllers/test.js"></script>
+        <script src="scripts/controllers/scanning.js"></script>
+        <!-- endbuild -->
+</body>
 </html>
