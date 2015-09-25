@@ -3,7 +3,7 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
 @import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
 // endbower
 
-$base-size: 1px;
+$base-size: 0.5px;
 // WARNING: Following three variables must be adjusted together
 //          Unless you want to ignore the real ratio
 $figure-width: 560 * $base-size;
@@ -18,7 +18,7 @@ $longitude-station2: -(75.989722 + $longitude-greenwich) * 1deg; //喀什
 $longitude-station3: -(-68.06 + $longitude-greenwich) * 1deg; //內烏肯
 $scanning-angle: 140; // degree
 $scaling-factor: 59.375 * $earth-radius / ($figure-width - 2 * $earth-radius - 2 * $moon-radius) / $diagonal-ratio;
-$scaling-factor: 1;
+//$scaling-factor: 1;
 $figure-width: $figure-width * $scaling-factor;
 $figure-height: $figure-height * $scaling-factor;
 
@@ -55,8 +55,8 @@ $figure-height: $figure-height * $scaling-factor;
     width: $moon-radius * 2;
     height: $moon-radius * 2;
     position: absolute;
-    right: $moon-radius * 1.5;
-    top: $moon-radius * 1.5;
+    right: $moon-radius * 5;
+    top: $moon-radius * 5;
     img {
       width: 100%;
       height: 100%;
@@ -65,8 +65,8 @@ $figure-height: $figure-height * $scaling-factor;
 
   .rotate-group {
     position: absolute;
-    bottom: 0px;
-    left: 0px;
+    bottom: $earth-radius * 4;
+    left: $earth-radius * 4;
     width: $earth-radius * 4;
     height: $earth-radius * 4;
     animation:spin 8s linear infinite;
