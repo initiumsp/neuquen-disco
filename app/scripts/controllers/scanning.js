@@ -56,10 +56,10 @@ angular.module('neuqueninitiumdatacomApp')
     var songLength = 4 * 60 + 45; // 4:45
     var beatDuration = 60 / 127 * 1000; // beat duration at 127 BPM
     var beatNumber = songLength * 1000 / beatDuration;
-    for (var i=0; i<beatNumber; i++) {
+    for (var i=0; i<beatNumber * 2; i++) {
       $timeout(function(){
         $scope.toggleStation('3');
-      }, beatDuration * i);
+      }, beatDuration * i / 2);
     }
 
     var toggleStation1 = function(){
@@ -84,18 +84,31 @@ angular.module('neuqueninitiumdatacomApp')
       //console.log(response);
       for (var i=0; i<response.data.length; i++) {
         var a = function(){
-            var interval = 1.0 * response.data[i].interval;
-            var rms = 1.0 * response.data[i].rms;
-            console.log(interval);
+          var interval = 1.0 * response.data[i].interval;
+          var rms = 1.0 * response.data[i].rms;
+          var rms1 = rms;
+          if ( rms < 0.2 ) {
+            rms = 0.2
+          }
+          if ( rms > 0.6 ) {
+            rms = 0.6
+          }
+          var rms2 = (rms - 0.2) / 0.4;
+          if (rms1 > rms2) {
+            rms = rms1;
+          } else {
+            rms = rms2;
+          }
+          //console.log(interval);
+          //console.log(rms);
+          //console.log(response.data.length);
+          $timeout(function(){
+            //console.log('here');
+            //$scope.earthDiameter = 1000 * response.data[i].rms;
+            $scope.moonDiameter = 10 * rms;
             console.log(rms);
-            console.log(response.data.length);
-            $timeout(function(){
-              //console.log('here');
-              //$scope.earthDiameter = 1000 * response.data[i].rms;
-              $scope.moonDiameter = 10 * rms;
-              //console.log(rms);
-            }, interval * beatDuration);
-            //$timeout(strategyArray[i].action, strategyArray[i].time);
+          }, interval * beatDuration);
+          //$timeout(strategyArray[i].action, strategyArray[i].time);
         };
         a();
       }
