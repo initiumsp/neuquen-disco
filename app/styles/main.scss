@@ -31,6 +31,9 @@ $figure-height: $figure-height * $scaling-factor;
 //Needs to manually calculate $diagonal-ratio = sqrt(1 + ($figure-height / $figure-width)^2)
 
 #illustration {
+
+  margin-top: 20px;
+
   font-size: 1px;
   overflow: hidden;
 
