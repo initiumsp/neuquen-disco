@@ -159,4 +159,9 @@ $figure-height: $figure-height * $scaling-factor;
   margin: 2em;
   padding: 2em;
   text-align: center;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+

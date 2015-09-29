@@ -19,6 +19,7 @@ angular.module('neuqueninitiumdatacomApp')
     };
 
     $('#mixer').keypress(function(){
+      console.log(event.which);
       if ( event.which == 'a'.charCodeAt(0) ) {
         $scope.showStation['1'] = !$scope.showStation['1'];
         console.log($scope.showStation1);
@@ -38,7 +39,21 @@ angular.module('neuqueninitiumdatacomApp')
         $scope.$apply();
         return ;
       }
+      if ( event.which == 'j'.charCodeAt(0) ) {
+        $scope.earthDiameter = $scope.earthDiameter - 100;
+        event.preventDefault();
+        $scope.$apply();
+        return ;
+      }
+      if ( event.which == 'k'.charCodeAt(0) ) {
+        $scope.earthDiameter = $scope.earthDiameter + 100;
+        event.preventDefault();
+        $scope.$apply();
+        return ;
+      }
     });
+
+    $('#mixer #keyinput').focus();
 
     $scope.showStation = {
       '1': false,
