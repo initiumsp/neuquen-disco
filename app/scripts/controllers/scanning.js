@@ -80,7 +80,7 @@ angular.module('neuqueninitiumdatacomApp')
       $timeout(strategyArray[i].action, strategyArray[i].time);
     };
 
-    $http.get('/rms_volume.json').then(function(response){
+    $http.get('volume/rms_volume.json').then(function(response){
       //console.log(response);
       for (var i=0; i<response.data.length; i++) {
         var a = function(){
